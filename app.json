@@ -4,9 +4,9 @@
     "slug": "portifolio",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
+    "icon": "./assets/portifolio.jpg",
+    "portifolio": {
+      "image": "./assets/portifolio.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -26,7 +26,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "portifolio": "./assets/portifolio.jpg"
     }
   }
 }
